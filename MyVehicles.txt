@@ -1,0 +1,9 @@
+Vehicle Make,Hyundai
+Vehicle Model,Sonata
+Vehicle Year,2015
+Current Mileage,68000
+Annual Mileage,12000
+Total Purchase Price,16000
+Salvage Value,1000
+EV Useful Life,19.333333333333332
+ICE Useful Life,11.0
